@@ -32,7 +32,7 @@ https://docs.google.com/document/d/1u89WtiOvwREo-Z5-INKGADjNWszlvZCOgm7bW8M6pB0/
 
 We're looking to follow an iterative development process, by releasing first the minimum needed to get the ball rolling, then we start adding more and more on top of it. Ideally we work on small releases and versions.
 
-We believe on Graham's recommendation about making things that don't scale first, so we imagine that in the early versions not everything will be automated. We'll probably required the "human" :) community to help us manage the project and donations at the beginning, and we'll be slowly adding automation or sophisticated mechanisms/tools for the community to contribute.
+We believe on Graham's recommendation about making things that don't scale first, so we imagine that in the early versions not everything will be automated. We'll probably require the "human" :) community to help us manage the project and donations at the beginning, and we'll be slowly adding automation or sophisticated mechanisms/tools for the community to contribute.
 
 ## First milestones to follow
 
