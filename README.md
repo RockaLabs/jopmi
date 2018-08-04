@@ -4,9 +4,9 @@ Hi there!
 
 Jopmi is an open donations platform that aims to change the way donations work around the world, by integrating practices of transparency and collaboration (as the ones practiced by open source communities) plus cryptocurrencies and blockchain to enhance honesty, traceability and promote *Transparency*.
 
-We’re building a non for profit org and internet product that enables a transparent system for donors to contribute to causes, guaranteeing full transparency and traceability of transactions by leveraging on crypto and blockchain technologies.
+Jopmi will be acting as a non for profit organization.
 
-We'll be live at Jopmi.com and Jopmi.org
+We'll be live at Jopmi.com and Jopmi.org.
 
 
 ## Actors involved in Jopmi
@@ -14,7 +14,7 @@ We'll be live at Jopmi.com and Jopmi.org
 - **A person or group looking for/to help**: which are the main actors, they can publish a cause to get donations/support for a cause from our community
 - **Donors**: worldwide donors that contribute money/donations to the platform, that is later distributed to the causes, donors can be individuals or entities (groups)
 - **Community volunteers (moderator)**: users who support community efforts and contribute on curating and supervising
-Contributor: people who help move the project forward
+- **Contributor**: people who help move the project forward (engineers, designers, product and project managers, etc.)
 
 
 ## How to contribute
@@ -31,7 +31,7 @@ We're looking to follow an iterative development process, by releasing first the
 
 We believe on Graham's recommendation about making things that don't scale first, so we imagine that in the early versions not everything will be automated. We'll probably required the "human" :) community to help us manage the project and donations at the beginning, and we'll be slowly adding automation or sophisticated mechanisms/tools for the community to contribute.
 
-## Milestones to follow
+## First milestones to follow
 
         1. Naming, domain registration, brand design ✅
         2. Domain setup ✅
