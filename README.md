@@ -21,9 +21,12 @@ We'll be live at Jopmi.com and Jopmi.org.
 
 You can clone this repository and start participating in Issues/conversations and you can also join our Telegram group:
 
-https://t.me/joinchat/AG8gdw83Og5W8kDAST8y8g
+> **Telegram 💬 --> https://t.me/joinchat/AG8gdw83Og5W8kDAST8y8g**
 
 *Disclaimer: Telegram group conversations might have a mix of English and Spanish*
+
+There is also a Google doc 📄 where actually everything started, it will be deprecated at some point:
+https://docs.google.com/document/d/1u89WtiOvwREo-Z5-INKGADjNWszlvZCOgm7bW8M6pB0/edit#
 
 # The Dev Plan
 
@@ -52,5 +55,5 @@ We believe on Graham's recommendation about making things that don't scale first
 - Sergio Florez
 - Sergio Ruiz
 - Mauricio Morales
-- …add yours…
+- …add yours, don't be shy :)…
 
