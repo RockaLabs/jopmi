@@ -50,8 +50,8 @@ We believe on Graham's recommendation about making things that don't scale first
 
 
 ### Contributors
-- Rocka Venture Builder
-- Suized.com - design studio
+- Rocka Venture Builder (https://rocka.co)
+- Suized.com - design studio (https://suized.com)
 - Sergio Florez
 - Sergio Ruiz
 - Mauricio Morales
